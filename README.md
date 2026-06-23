@@ -1,3 +1,4 @@
-# Infotact-Data-Analytics-Projects 1
+# Infotact-Data-Analytics-Projects
+
 
 Retail and Financial Analytics Projects for Infotact Internship.
